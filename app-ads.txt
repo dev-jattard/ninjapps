@@ -1,0 +1,4 @@
+# Authorized digital sellers for my app
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+appnexus.com, 1234, DIRECT
+facebook.com, 5678, DIRECT
