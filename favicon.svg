@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="NinjApps">
+  <rect width="64" height="64" rx="14" fill="#14120F"/>
+  <path d="M17 45V19h6.2l13.4 17.1V19H43v26h-6.2L23.4 27.9V45z" fill="#F7F5F1"/>
+  <circle cx="49" cy="42" r="4.2" fill="#FF7038"/>
+</svg>
